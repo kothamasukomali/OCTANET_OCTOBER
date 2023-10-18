@@ -103,7 +103,6 @@ h1{
 .hill{
     text-align: center;
       font-size: 50px;
-      
       color:darkmagenta;
       background-color: aqua;
       
@@ -169,7 +168,7 @@ text-decoration: none;
     background: #d9f688;
     display: inline-block;
     color:#000;
-    font-size: 15px;;
+    font-size: 15px;
     margin-top: 20px;
     margin-left:70px;
     box-shadow:5px 8px 10px rgba(0,0,0,0.1);
